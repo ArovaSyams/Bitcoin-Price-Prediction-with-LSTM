@@ -101,7 +101,7 @@ The LSTM model consists of:
 ---
 
 ## Future Work
-- Add additional features such as macroeconomic indicators or sentiment analysis.
+- Add additional features such as macroeconomic indicators, Moving Average, RSI or sentiment analysis.
 - Perform hyperparameter tuning to further improve model performance.
 - Deploy the model as a web application for real-time predictions.
 
