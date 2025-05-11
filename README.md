@@ -75,6 +75,8 @@ The LSTM model consists of:
 - **GRU Test RMSE**: ~21,445 USD
 - The LSTM model outperformed the GRU model, demonstrating its ability to capture sequential patterns in BTC prices.
 
+![Bitcoin Price Prediction](output_prediction.png)
+
 ---
 
 ## How to Run
