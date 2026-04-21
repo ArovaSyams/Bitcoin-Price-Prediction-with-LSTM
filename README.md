@@ -82,7 +82,7 @@ The LSTM model consists of:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ArovaSyams/Bitcoin-Price-Prediction-with-LSTM.git
    cd Bitcoin-Prediction
    ```
 
